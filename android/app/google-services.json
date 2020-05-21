@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "505057207185",
+    "firebase_url": "https://jaleelchatapp.firebaseio.com",
+    "project_id": "jaleelchatapp",
+    "storage_bucket": "jaleelchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505057207185:android:b921871606abf419987030",
+        "android_client_info": {
+          "package_name": "com.example.jaleelchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505057207185-pmo57qeh1o5fp0np974d4ag1beqs1qpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOkyREy-vOzKqdmi6SZtQvRErREjHoMV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505057207185-pmo57qeh1o5fp0np974d4ag1beqs1qpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
